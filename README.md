@@ -21,3 +21,9 @@ npm install
 ``` bash
 npm start
 ```
+
+## Running the fixtures
+
+``` bash
+node fixtures.js
+```
